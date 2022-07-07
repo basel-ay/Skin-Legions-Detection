@@ -1,0 +1,9 @@
+Unknown
+Benign Keratosis
+Vascular Lesion
+Squamous Cell Carcinoma
+Melanoma
+Melanocytic Nevus
+Dermatofibroma
+Actinic Keratosis
+Basal Cell Carcinoma
