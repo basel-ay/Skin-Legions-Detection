@@ -38,4 +38,5 @@ Our Deep learning CNN model has been trained with 10015 pre-determined skin canc
 Our DenseNet 21 model `achieved 95% accuracy on our training and 85% accuracy on test` after 20 epochs on the classification task.
 
 ![Original Picture](https://github.com/MohammedHameds/skin-cancer-detection/blob/main/Machine%20Learning/images/results.png?raw=true)
-![image](https://user-images.githubusercontent.com/64821137/179558933-4285332f-5a99-4e25-9465-1255c45f9963.png)
+![image](https://user-images.githubusercontent.com/64821137/179559091-068312c1-1738-439f-a574-0840f03fea05.png)
+
