@@ -1,4 +1,4 @@
-# Skin Cancer Detection
+# Skin Legions Detection
 
 # Overview
 As skin cancer is one of the most frequent cancers globally, accurate, non-invasive dermoscopy-based diagnosis becomes essential and promising. A task of Easy Company’s Deep Learning CNN model is to predict seven disease classes with skin lesion images, including melanoma (MEL), melanocytic nevus (NV), basal cell carcinoma (BCC), actinic keratosis / Bowens disease (intraepithelial carcinoma) (AKIEC), benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis) (BKL), dermatoﬁbroma (DF) and vascular lesion (VASC) as deﬁned by the International Dermatology Society.
