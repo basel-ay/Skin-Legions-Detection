@@ -31,6 +31,8 @@ Skin cancer is one of the most common cancers that has been increasing world wid
 Finding out the type of cancer can take months for doctors as it is a very tedious practice and also requires the use of expensive devices and contraptions. This would waste a good lot of time for the patient which could have been utilized by the doctors to treat the patient in time. It is also monetarily very demanding on the patient’s part, which could pose a problem if the patient is not financially settled.
 Our Deep learning CNN model has been trained with 10015 pre-determined skin cancer type images to accurately predict what type of cancer (or skin disease) the given patient is facing. 
 
+# Methodology
+
 # Results
 Our DenseNet 21 model achieved 95% accuracy on our training and 85% accuracy on test after 20 epochs on the classification task.
 
